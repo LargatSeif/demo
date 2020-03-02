@@ -1,8 +1,121 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    {
+    "tel_num": "0753938811",
+    "client_num": "196123456789",
+    "birth_date": "081994",
+    "first_name": "SEIFEDDINE",
+    "last_name": "LARGAT",
+    "postal_adress": "18 B rue de Villiers",
+    "zipcode": "92300",
+    "email": "slargat@zaion.ai",
+    "contracts": [{
+        "num": "1",
+        "intercalaire": "",
+        "type": "A"
+    }, {
+        "num": "2",
+        "intercalaire": "",
+        "type": "B"
+    }, {
+        "num": "3",
+        "intercalaire": "",
+        "type": "C"
+    }],
+    "blocked": true
+}, {
+    "tel_num": "0753938829",
+    "client_num": "1234567891",
+    "birth_date": "081994",
+    "first_name": "abcd",
+    "last_name": "abcde",
+    "postal_adress": "",
+    "zipcode": "92301",
+    "email": "",
+    "contracts": [{
+        "num": "1",
+        "intercalaire": "",
+        "type": "A"
+    }, {
+        "num": "2",
+        "intercalaire": "",
+        "type": "B"
+    }, {
+        "num": "3",
+        "intercalaire": "",
+        "type": "C"
+    }],
+    "blocked": false
+}, {
+    "tel_num": "0753938839",
+    "client_num": "1234567892",
+    "birth_date": "081994",
+    "first_name": "wxy",
+    "last_name": "wxyz",
+    "postal_adress": "",
+    "zipcode": "92302",
+    "email": "",
+    "contracts": [{
+        "num": "1",
+        "intercalaire": "",
+        "type": "A"
+    }, {
+        "num": "2",
+        "intercalaire": "",
+        "type": "B"
+    }, {
+        "num": "3",
+        "intercalaire": "",
+        "type": "C"
+    }],
+    "blocked": true
+}, {
+    "tel_num": "0753938849",
+    "client_num": "1234567893",
+    "birth_date": "081994",
+    "first_name": "",
+    "last_name": "",
+    "postal_adress": "",
+    "zipcode": "92303",
+    "email": "",
+    "contracts": [{
+        "num": "1",
+        "intercalaire": "",
+        "type": "A"
+    }, {
+        "num": "2",
+        "intercalaire": "",
+        "type": "B"
+    }, {
+        "num": "3",
+        "intercalaire": "",
+        "type": "C"
+    }],
+    "blocked": false
+}, {
+    "tel_num": "0753938859",
+    "client_num": "1234567894",
+    "birth_date": "081994",
+    "first_name": "",
+    "last_name": "",
+    "postal_adress": "",
+    "zipcode": "92304",
+    "email": "",
+    "contracts": [{
+        "num": "1",
+        "intercalaire": "",
+        "type": "A"
+    }, {
+        "num": "2",
+        "intercalaire": "",
+        "type": "B"
+    }, {
+        "num": "3",
+        "intercalaire": "",
+        "type": "C"
+    }],
+    "blocked": true
+}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
