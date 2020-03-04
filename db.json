@@ -1,4 +1,59 @@
 {
+  "contracts":[{
+    "num": "1",
+    "childrens": [{
+        "first_name": "Seifeddine1",
+        "last_name": "Largat",
+        "birth_date": "031994"
+    }, {
+        "first_name": "Seifeddine2",
+        "last_name": "Largat",
+        "birth_date": "041994"
+    }, {
+        "first_name": "Seifeddine2",
+        "last_name": "Largat",
+        "birth_date": "051994"
+    }],
+    "formula": "",
+    "terminated": "",
+    "Incoherence": ""
+}, {
+    "num": "2",
+    "childrens": [{
+        "first_name": "Seifeddine1",
+        "last_name": "Largat",
+        "birth_date": "051994"
+    }, {
+        "first_name": "Seifeddine2",
+        "last_name": "Largat",
+        "birth_date": "061994"
+    }, {
+        "first_name": "Seifeddine3",
+        "last_name": "Largat",
+        "birth_date": "071994"
+    }],
+    "formula": "",
+    "terminated": "",
+    "Incoherence": ""
+}, {
+    "num": "3",
+    "childrens": [{
+        "first_name": "Seifeddine1",
+        "last_name": "Largat",
+        "birth_date": "081994"
+    }, {
+        "first_name": "Seifeddineé2",
+        "last_name": "Largat",
+        "birth_date": "091994"
+    }, {
+        "first_name": "Seifeddine3",
+        "last_name": "Largat",
+        "birth_date": "101994"
+    }],
+    "formula": "",
+    "terminated": "",
+    "Incoherence": ""
+}],
   "users": [
     {
       "id":1,
