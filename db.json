@@ -3,7 +3,7 @@
     {
       "id": "1",
       "num": "1",
-      "childrens": [
+      "children": [
         {
           "first_name": "Seifeddine1",
           "last_name": "Largat",
@@ -27,7 +27,7 @@
     {
       "id": "2",
       "num": "2",
-      "childrens": [
+      "children": [
         {
           "first_name": "Seifeddine1",
           "last_name": "Largat",
@@ -51,7 +51,7 @@
     {
       "id": "3",
       "num": "3",
-      "childrens": [
+      "children": [
         {
           "first_name": "Seifeddine1",
           "last_name": "Largat",
