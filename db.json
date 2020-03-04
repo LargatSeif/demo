@@ -53,19 +53,14 @@
       "num": "3",
       "children": [
         {
-          "first_name": "Seifeddine1",
+          "first_name": "Seifeddine",
           "last_name": "Largat",
           "birth_date": "081994"
         },
         {
-          "first_name": "Seifeddineé2",
+          "first_name": "Ghassen",
           "last_name": "Largat",
-          "birth_date": "091994"
-        },
-        {
-          "first_name": "Seifeddine3",
-          "last_name": "Largat",
-          "birth_date": "101994"
+          "birth_date": "091997"
         }
       ],
       "formula": "",
