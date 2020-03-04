@@ -1,189 +1,236 @@
 {
-  "contracts":[{
-    "id":"1",
-    "num": "1",
-    "childrens": [{
-        "first_name": "Seifeddine1",
-        "last_name": "Largat",
-        "birth_date": "031994"
-    }, {
-        "first_name": "Seifeddine2",
-        "last_name": "Largat",
-        "birth_date": "041994"
-    }, {
-        "first_name": "Seifeddine2",
-        "last_name": "Largat",
-        "birth_date": "051994"
-    }],
-    "formula": "",
-    "terminated": "",
-    "Incoherence": ""
-}, {
-    "id":"2",
-    "num": "2",
-    "childrens": [{
-        "first_name": "Seifeddine1",
-        "last_name": "Largat",
-        "birth_date": "051994"
-    }, {
-        "first_name": "Seifeddine2",
-        "last_name": "Largat",
-        "birth_date": "061994"
-    }, {
-        "first_name": "Seifeddine3",
-        "last_name": "Largat",
-        "birth_date": "071994"
-    }],
-    "formula": "",
-    "terminated": "",
-    "Incoherence": ""
-}, {
-    "id":"3",
-    "num": "3",
-    "childrens": [{
-        "first_name": "Seifeddine1",
-        "last_name": "Largat",
-        "birth_date": "081994"
-    }, {
-        "first_name": "Seifeddineé2",
-        "last_name": "Largat",
-        "birth_date": "091994"
-    }, {
-        "first_name": "Seifeddine3",
-        "last_name": "Largat",
-        "birth_date": "101994"
-    }],
-    "formula": "",
-    "terminated": "",
-    "Incoherence": ""
-}]
-},
+  "contracts": [
+    {
+      "id": "1",
+      "num": "1",
+      "childrens": [
+        {
+          "first_name": "Seifeddine1",
+          "last_name": "Largat",
+          "birth_date": "031994"
+        },
+        {
+          "first_name": "Seifeddine2",
+          "last_name": "Largat",
+          "birth_date": "041994"
+        },
+        {
+          "first_name": "Seifeddine2",
+          "last_name": "Largat",
+          "birth_date": "051994"
+        }
+      ],
+      "formula": "",
+      "terminated": "",
+      "Incoherence": ""
+    },
+    {
+      "id": "2",
+      "num": "2",
+      "childrens": [
+        {
+          "first_name": "Seifeddine1",
+          "last_name": "Largat",
+          "birth_date": "051994"
+        },
+        {
+          "first_name": "Seifeddine2",
+          "last_name": "Largat",
+          "birth_date": "061994"
+        },
+        {
+          "first_name": "Seifeddine3",
+          "last_name": "Largat",
+          "birth_date": "071994"
+        }
+      ],
+      "formula": "",
+      "terminated": "",
+      "Incoherence": ""
+    },
+    {
+      "id": "3",
+      "num": "3",
+      "childrens": [
+        {
+          "first_name": "Seifeddine1",
+          "last_name": "Largat",
+          "birth_date": "081994"
+        },
+        {
+          "first_name": "Seifeddineé2",
+          "last_name": "Largat",
+          "birth_date": "091994"
+        },
+        {
+          "first_name": "Seifeddine3",
+          "last_name": "Largat",
+          "birth_date": "101994"
+        }
+      ],
+      "formula": "",
+      "terminated": "",
+      "Incoherence": ""
+    }
+  ],
   "users": [
     {
-      "id":1,
-    "tel_num": "0753938811",
-    "client_num": "196123456789",
-    "birth_date": "081994",
-    "first_name": "SEIFEDDINE",
-    "last_name": "LARGAT",
-    "postal_adress": "18 B rue de Villiers",
-    "zipcode": "92300",
-    "email": "slargat@zaion.ai",
-    "contracts": [{
-        "num": "1",
-        "intercalaire": "",
-        "type": "A"
-    }, {
-        "num": "2",
-        "intercalaire": "",
-        "type": "B"
-    }, {
-        "num": "3",
-        "intercalaire": "",
-        "type": "C"
-    }],
-    "blocked": true
-}, {
-    "id":2,
-    "tel_num": "0753938829",
-    "client_num": "1234567891",
-    "birth_date": "081994",
-    "first_name": "abcd",
-    "last_name": "abcde",
-    "postal_adress": "",
-    "zipcode": "92301",
-    "email": "",
-    "contracts": [{
-        "num": "1",
-        "intercalaire": "",
-        "type": "A"
-    }, {
-        "num": "2",
-        "intercalaire": "",
-        "type": "B"
-    }, {
-        "num": "3",
-        "intercalaire": "",
-        "type": "C"
-    }],
-    "blocked": false
-}, {
-    "id":3,
-    "tel_num": "0753938839",
-    "client_num": "1234567892",
-    "birth_date": "081994",
-    "first_name": "wxy",
-    "last_name": "wxyz",
-    "postal_adress": "",
-    "zipcode": "92302",
-    "email": "",
-    "contracts": [{
-        "num": "1",
-        "intercalaire": "",
-        "type": "A"
-    }, {
-        "num": "2",
-        "intercalaire": "",
-        "type": "B"
-    }, {
-        "num": "3",
-        "intercalaire": "",
-        "type": "C"
-    }],
-    "blocked": true
-}, {
-    "id":4,
-    "tel_num": "0753938849",
-    "client_num": "1234567893",
-    "birth_date": "081994",
-    "first_name": "",
-    "last_name": "",
-    "postal_adress": "",
-    "zipcode": "92303",
-    "email": "",
-    "contracts": [{
-        "num": "1",
-        "intercalaire": "",
-        "type": "A"
-    }, {
-        "num": "2",
-        "intercalaire": "",
-        "type": "B"
-    }, {
-        "num": "3",
-        "intercalaire": "",
-        "type": "C"
-    }],
-    "blocked": false
-}, {
-    "id":5,
-    "tel_num": "0753938859",
-    "client_num": "1234567894",
-    "birth_date": "081994",
-    "first_name": "",
-    "last_name": "",
-    "postal_adress": "",
-    "zipcode": "92304",
-    "email": "",
-    "contracts": [{
-        "num": "1",
-        "intercalaire": "",
-        "type": "A"
-    }, {
-        "num": "2",
-        "intercalaire": "",
-        "type": "B"
-    }, {
-        "num": "3",
-        "intercalaire": "",
-        "type": "C"
-    }],
-    "blocked": true
-}
+      "id": 1,
+      "tel_num": "0753938811",
+      "client_num": "196123456789",
+      "birth_date": "081994",
+      "first_name": "SEIFEDDINE",
+      "last_name": "LARGAT",
+      "postal_adress": "18 B rue de Villiers",
+      "zipcode": "92300",
+      "email": "slargat@zaion.ai",
+      "contracts": [
+        {
+          "num": "1",
+          "intercalaire": "",
+          "type": "A"
+        },
+        {
+          "num": "2",
+          "intercalaire": "",
+          "type": "B"
+        },
+        {
+          "num": "3",
+          "intercalaire": "",
+          "type": "C"
+        }
+      ],
+      "blocked": true
+    },
+    {
+      "id": 2,
+      "tel_num": "0753938829",
+      "client_num": "1234567891",
+      "birth_date": "081994",
+      "first_name": "abcd",
+      "last_name": "abcde",
+      "postal_adress": "",
+      "zipcode": "92301",
+      "email": "",
+      "contracts": [
+        {
+          "num": "1",
+          "intercalaire": "",
+          "type": "A"
+        },
+        {
+          "num": "2",
+          "intercalaire": "",
+          "type": "B"
+        },
+        {
+          "num": "3",
+          "intercalaire": "",
+          "type": "C"
+        }
+      ],
+      "blocked": false
+    },
+    {
+      "id": 3,
+      "tel_num": "0753938839",
+      "client_num": "1234567892",
+      "birth_date": "081994",
+      "first_name": "wxy",
+      "last_name": "wxyz",
+      "postal_adress": "",
+      "zipcode": "92302",
+      "email": "",
+      "contracts": [
+        {
+          "num": "1",
+          "intercalaire": "",
+          "type": "A"
+        },
+        {
+          "num": "2",
+          "intercalaire": "",
+          "type": "B"
+        },
+        {
+          "num": "3",
+          "intercalaire": "",
+          "type": "C"
+        }
+      ],
+      "blocked": true
+    },
+    {
+      "id": 4,
+      "tel_num": "0753938849",
+      "client_num": "1234567893",
+      "birth_date": "081994",
+      "first_name": "",
+      "last_name": "",
+      "postal_adress": "",
+      "zipcode": "92303",
+      "email": "",
+      "contracts": [
+        {
+          "num": "1",
+          "intercalaire": "",
+          "type": "A"
+        },
+        {
+          "num": "2",
+          "intercalaire": "",
+          "type": "B"
+        },
+        {
+          "num": "3",
+          "intercalaire": "",
+          "type": "C"
+        }
+      ],
+      "blocked": false
+    },
+    {
+      "id": 5,
+      "tel_num": "0753938859",
+      "client_num": "1234567894",
+      "birth_date": "081994",
+      "first_name": "",
+      "last_name": "",
+      "postal_adress": "",
+      "zipcode": "92304",
+      "email": "",
+      "contracts": [
+        {
+          "num": "1",
+          "intercalaire": "",
+          "type": "A"
+        },
+        {
+          "num": "2",
+          "intercalaire": "",
+          "type": "B"
+        },
+        {
+          "num": "3",
+          "intercalaire": "",
+          "type": "C"
+        }
+      ],
+      "blocked": true
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
