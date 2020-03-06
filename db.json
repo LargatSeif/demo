@@ -5,24 +5,24 @@
       "num": "1",
       "childrens": [
         {
-          "first_name": "Seifeddine1",
+          "first_name": "ALEX",
           "last_name": "Largat",
           "birth_date": "031994"
         },
         {
-          "first_name": "Seifeddine2",
+          "first_name": "PIERRE",
           "last_name": "Largat",
           "birth_date": "041994"
         },
         {
-          "first_name": "Seifeddine2",
+          "first_name": "WASSIM",
           "last_name": "Largat",
           "birth_date": "051994"
         }
       ],
       "formula": "",
       "terminated": false,
-      "incoherence": "doublon"
+      "incoherence": ""
     },
     {
       "id": 2,
