@@ -1,73 +1,63 @@
 {
   "contracts": [
-    {
-      "id": "1",
-      "num": "1",
-      "children": [
-        {
-          "first_name": "Seifeddine1",
-          "last_name": "Largat",
-          "birth_date": "031994"
-        },
-        {
-          "first_name": "Seifeddine2",
-          "last_name": "Largat",
-          "birth_date": "041994"
-        },
-        {
-          "first_name": "Seifeddine2",
-          "last_name": "Largat",
-          "birth_date": "051994"
-        }
-      ],
-      "formula": "",
-      "terminated": "",
-      "Incoherence": ""
-    },
-    {
-      "id": "2",
-      "num": "2",
-      "children": [
-        {
-          "first_name": "Seifeddine1",
-          "last_name": "Largat",
-          "birth_date": "051994"
-        },
-        {
-          "first_name": "Seifeddine2",
-          "last_name": "Largat",
-          "birth_date": "061994"
-        },
-        {
-          "first_name": "Seifeddine3",
-          "last_name": "Largat",
-          "birth_date": "071994"
-        }
-      ],
-      "formula": "",
-      "terminated": "",
-      "Incoherence": ""
-    },
-    {
-      "id": "3",
-      "num": "3",
-      "children": [
-        {
-          "first_name": "Seifeddine",
-          "last_name": "Largat",
-          "birth_date": "081994"
-        },
-        {
-          "first_name": "Ghassen",
-          "last_name": "Largat",
-          "birth_date": "091997"
-        }
-      ],
-      "formula": "",
-      "terminated": "",
-      "Incoherence": ""
-    }
-  ],
+	{
+		"num": "1",
+		"childrens": [{
+			"first_name": "Seifeddine1",
+			"last_name": "Largat",
+			"birth_date": "031994"
+		}, {
+			"first_name": "Seifeddine2",
+			"last_name": "Largat",
+			"birth_date": "041994"
+		}, {
+			"first_name": "Seifeddine2",
+			"last_name": "Largat",
+			"birth_date": "051994"
+		}],
+		"formula": "",
+		"terminated": false,
+		"incoherence": ""
+	},
+	{
+		"num": "2",
+		"childrens": [{
+			"first_name": "Seifeddine1",
+			"last_name": "Largat",
+			"birth_date": "051994"
+		}, {
+			"first_name": "Seifeddine2",
+			"last_name": "Largat",
+			"birth_date": "061994"
+		}, {
+			"first_name": "Seifeddine3",
+			"last_name": "Largat",
+			"birth_date": "071994"
+		}],
+		"formula": "",
+		"terminated": false,
+		"incoherence": "enfants différents"
+	},
+	{
+		"num": "3",
+		"childrens": [{
+			"first_name": "Seifeddine1",
+			"last_name": "Largat",
+			"birth_date": "081994"
+		}, {
+			"first_name": "Seifeddineé2",
+			"last_name": "Largat",
+			"birth_date": "091994"
+		}, {
+			"first_name": "Seifeddine3",
+			"last_name": "Largat",
+			"birth_date": "101994"
+		}],
+		"formula": "",
+		"terminated": true,
+		"incoherence": ""
+	}
+],
   "users": [
     {
       "id": 1,
