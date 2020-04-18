@@ -37,7 +37,12 @@
         "zipcode": 78990,
         "email": "seifeddine.largat@outlook.com",
         "phoneNumber": 753938819,
-        "picture": "assets/images/users/001.png",
+        "picture": {
+          "id": "001",
+          "path": "assets/images/users/001.png",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
         "createdAt": "2020-04-18 22:15:00",
         "UpdatedAt": "2020-04-18 22:15:00"
       }
@@ -79,7 +84,12 @@
         "zipcode": 8000,
         "email": "foulena.benfoulena@outlook.com",
         "phoneNumber": 23750945,
-        "picture": "assets/images/users/002.png",
+        "picture": {
+          "id": "002",
+          "path": "assets/images/users/002.png",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
         "createdAt": "2020-04-18 22:15:00",
         "UpdatedAt": "2020-04-18 22:15:00"
       }
@@ -121,7 +131,12 @@
         "zipcode": 78990,
         "email": "seifeddine.largat@outlook.com",
         "phoneNumber": 753938819,
-        "picture": "assets/images/users/001.png",
+        "picture": {
+          "id": "001",
+          "path": "assets/images/users/001.png",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
         "createdAt": "2020-04-18 22:15:00",
         "UpdatedAt": "2020-04-18 22:15:00"
       }
