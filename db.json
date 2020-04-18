@@ -147,5 +147,97 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+    {
+      "id": "1",
+      "brand": "Apple",
+      "model": "iPhone X",
+      "price": 750,
+      "status": 4,
+      "images": [
+        {
+          "id": "001",
+          "path": "assets/images/product/iphone-1.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
+        {
+          "id": "002",
+          "path": "assets/images/product/iphone-2.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
+        {
+          "id": "003",
+          "path": "assets/images/product/iphone-3.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        }
+      ],
+      "owner_id": "1",
+      "createdAt": "2020-04-18 22:15:00",
+      "updatedAt": "2020-04-18 22:15:00"
+    },
+    {
+      "id": "1",
+      "brand": "Apple",
+      "model": "iPhone 11 pro Max",
+      "price": 2750,
+      "status": 2,
+      "images": [
+        {
+          "id": "004",
+          "path": "assets/images/product/iphone-11.jpg",
+          "createdAt": "",
+          "updatedAt": ""
+        },
+        {
+          "id": "005",
+          "path": "assets/images/product/iphone-12.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
+        {
+          "id": "006",
+          "path": "assets/images/product/iphone-13.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        }
+      ],
+      "owner_id": "3",
+      "createdAt": "2020-04-18 22:15:00",
+      "updatedAt": "2020-04-18 22:15:00"
+    },
+    {
+      "id": "1",
+      "brand": "Samsung",
+      "model": "Note 10 plus",
+      "price": 3600,
+      "status": 1,
+      "images": [
+        {
+          "id": "007",
+          "path": "assets/images/product/iphone-21.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
+        {
+          "id": "008",
+          "path": "assets/images/product/iphone-22.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        },
+        {
+          "id": "009",
+          "path": "assets/images/product/iphone-23.jpg",
+          "createdAt": "2020-04-18 22:15:00",
+          "updatedAt": "2020-04-18 22:15:00"
+        }
+      ],
+      "owner_id": "2",
+      "createdAt": "2020-04-18 22:15:00",
+      "updatedAt": "2020-04-18 22:15:00"
+    }
+  ]
 }
