@@ -175,9 +175,21 @@
           "updatedAt": "2020-04-18 22:15:00"
         }
       ],
-      "owner_id": "1",
       "createdAt": "2020-04-18 22:15:00",
-      "updatedAt": "2020-04-18 22:15:00"
+      "updatedAt": "2020-04-18 22:15:00",
+      "owner": {
+        "id": 1,
+        "firstName": "Foulen",
+        "lastName": "Ben Foulen",
+        "birthDate": "1994-08-25",
+        "adress": "1 rue de Bruges",
+        "zipcode": 78990,
+        "email": "seifeddine.largat@outlook.com",
+        "phoneNumber": 753938819,
+        "picture": "assets/images/users/001.jpg",
+        "createdAt": "2020-04-18 22:15:00",
+        "UpdatedAt": "2020-04-18 22:15:00"
+      }
     },
     {
       "id": "1",
@@ -205,9 +217,21 @@
           "updatedAt": "2020-04-18 22:15:00"
         }
       ],
-      "owner_id": "3",
       "createdAt": "2020-04-18 22:15:00",
-      "updatedAt": "2020-04-18 22:15:00"
+      "updatedAt": "2020-04-18 22:15:00",
+      "owner": {
+        "id": 2,
+        "firstName": "Foulena",
+        "lastName": "Ben Foulena",
+        "birthDate": "1994-02-02",
+        "adress": "1 rue de Nabeul",
+        "zipcode": 8000,
+        "email": "foulena.benfoulena@outlook.com",
+        "phoneNumber": 23750945,
+        "picture": "assets/images/users/002.jpg",
+        "createdAt": "2020-04-18 22:15:00",
+        "UpdatedAt": "2020-04-18 22:15:00"
+      }
     },
     {
       "id": "1",
@@ -235,9 +259,21 @@
           "updatedAt": "2020-04-18 22:15:00"
         }
       ],
-      "owner_id": "2",
       "createdAt": "2020-04-18 22:15:00",
-      "updatedAt": "2020-04-18 22:15:00"
+      "updatedAt": "2020-04-18 22:15:00",
+      "owner": {
+        "id": 1,
+        "firstName": "Foulen",
+        "lastName": "Ben Foulen",
+        "birthDate": "1994-08-25",
+        "adress": "1 rue de Bruges",
+        "zipcode": 78990,
+        "email": "seifeddine.largat@outlook.com",
+        "phoneNumber": 753938819,
+        "picture": "assets/images/users/001.jpg",
+        "createdAt": "2020-04-18 22:15:00",
+        "UpdatedAt": "2020-04-18 22:15:00"
+      }
     }
   ]
 }
